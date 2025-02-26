@@ -1,0 +1,32 @@
+Game references
+============
+1. Battle for Wesnoth Android Port
+https://sourceforge.net/projects/wesnoth-on-android/
+
+2. Domination (Risk Board Game)
+https://sourceforge.net/projects/domination/
+
+3. CaesarIA (openCaesar3)
+https://sourceforge.net/projects/opencaesar3/
+
+4. Call of Duty: Mobile
+https://f3g.mzgen.com/detail/com-activision-callofduty-shooter.html
+
+
+5. Minecraft
+https://f3g.mzgen.com/detail/com-mojang-minecraftpe.html
+
+6. Delta Executor APK
+https://sourceforge.net/projects/delta-executor/
+
+7. Unciv 
+https://github.com/yairm210/Unciv
+
+8. Taptap Heroes:ldle RPG
+https://play.google.com/store/apps/details?id=com.westbund.heros.en&hl=en_US&pli=1
+
+9. Northgard
+https://play.google.com/store/apps/details?id=com.playdigious.northgard
+
+10. ROME: Total War
+https://play.google.com/store/apps/details?id=com.feralinteractive.rometw
