@@ -1,0 +1,9 @@
+Game name: sudoku
+
+You can play the game on the following site and find the guide for playing as well.
+https://sudoku.com/
+
+And you can find the open source on the following site.
+https://github.com/ogarcia/opensudoku
+
+Thank you,
